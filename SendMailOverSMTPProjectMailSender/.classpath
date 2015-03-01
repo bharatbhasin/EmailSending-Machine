@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Work/workspace3/SendMailOverSMTPProjectMailSender/javamail-1.4.6/lib/dsn.jar"/>
+	<classpathentry kind="lib" path="C:/Work/workspace3/SendMailOverSMTPProjectMailSender/javamail-1.4.6/lib/gimap.jar"/>
+	<classpathentry kind="lib" path="C:/Work/workspace3/SendMailOverSMTPProjectMailSender/javamail-1.4.6/lib/imap.jar"/>
+	<classpathentry kind="lib" path="C:/Work/workspace3/SendMailOverSMTPProjectMailSender/javamail-1.4.6/lib/mailapi.jar"/>
+	<classpathentry kind="lib" path="C:/Work/workspace3/SendMailOverSMTPProjectMailSender/javamail-1.4.6/lib/pop3.jar"/>
+	<classpathentry kind="lib" path="C:/Work/workspace3/SendMailOverSMTPProjectMailSender/javamail-1.4.6/lib/smtp.jar"/>
+	<classpathentry kind="lib" path="C:/Work/workspace3/SendMailOverSMTPProjectMailSender/mysql-connector-java-5.1.18-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bbhasin.BLACKROCK/Downloads/rabbitmq-java-client-bin-3.4.4/rabbitmq-java-client-bin-3.4.4/commons-cli-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bbhasin.BLACKROCK/Downloads/rabbitmq-java-client-bin-3.4.4/rabbitmq-java-client-bin-3.4.4/commons-io-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bbhasin.BLACKROCK/Downloads/rabbitmq-java-client-bin-3.4.4/rabbitmq-java-client-bin-3.4.4/junit.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bbhasin.BLACKROCK/Downloads/rabbitmq-java-client-bin-3.4.4/rabbitmq-java-client-bin-3.4.4/rabbitmq-client.jar" sourcepath="C:/Users/bbhasin.BLACKROCK/Downloads/rabbitmq-java-client-3.4.4.zip"/>
+	<classpathentry kind="lib" path="C:/Users/bbhasin.BLACKROCK/Downloads/rabbitmq-java-client-bin-3.4.4/rabbitmq-java-client-bin-3.4.4/rabbitmq-client-tests.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
